@@ -9,15 +9,12 @@
     "start": "nodemon server.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nayaksuvendu/BookStoreWebsite.git"
+    "type": "",
+    "url": ""
   },
   "author": "Suvendu",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/nayaksuvendu/BookStoreWebsite/issues"
-  },
-  "homepage": "https://github.com/nayaksuvendu/BookStoreWebsite#readme",
+  "homepage": "",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
